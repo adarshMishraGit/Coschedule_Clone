@@ -1,4 +1,4 @@
-# Cloning Of KissflowCoschedule.com
+# Cloning Of Coschedule.com
 
 CoSchedule makes it easier to publish blog posts consistently, schedule social media posts, and drive traffic to your site – all in one tool.
 
