@@ -1,6 +1,10 @@
 # Cloning Of Coschedule.com
 
-CoSchedule makes it easier to publish blog posts consistently, schedule social media posts, and drive traffic to your site – all in one tool.
+
+At CoSchedule, we provide marketers with tools & training that are uniquely helpful, fun to use, & consistently punch above their weight.
+
+
+Pages : Login | Sign Up | Home Page | Marketing | Mark Calender | Calender Organisation. 
 
 
 ## Tech Stack
