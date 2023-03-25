@@ -1,4 +1,4 @@
-# Cloning Of Coschedule.com
+# Website Cloning Project of Coschedule.com
 
 
 At CoSchedule, we provide marketers with tools & training that are uniquely helpful, fun to use, & consistently punch above their weight.
